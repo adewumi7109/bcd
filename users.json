@@ -15,7 +15,23 @@
       {
         "username": "user3",
         "password": "user3"
-      }
+      },
+         {
+        "username": "vivian1@gmail.com",
+        "password": "vivian1"
+      },
+         {
+        "username": "Vivian1@gmail.com",
+        "password": "Vivian1"
+      },
+        {
+        "username": "vivian1@gmail.com",
+        "password": "Vivian1"
+      },{
+        "username": "Vivian1@gmail.com",
+        "password": "vivian1"
+      },
+        
     ]
   }
   
